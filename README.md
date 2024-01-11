@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github.com/mirandaLopezAbraham1/mirandaLopezAbraham1/blob/main/giphy.gif">
+</p>
+
 <!--
 **mirandaLopezAbraham1/mirandaLopezAbraham1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
