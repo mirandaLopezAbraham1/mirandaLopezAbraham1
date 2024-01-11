@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hellowe there 👋
 
 <p align="center">
   <img src="https://github.com/mirandaLopezAbraham1/mirandaLopezAbraham1/blob/main/giphy.gif">
 </p>
 
+  <a href="https://www.linkedin.com/in/abraham-miranda-1bb2512a7/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  
 <!--
 **mirandaLopezAbraham1/mirandaLopezAbraham1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
