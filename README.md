@@ -28,9 +28,9 @@ I am a software student at the Technical University of Ambato in Ecuador, with a
 
 ## Featured projects
 
-- [Proyect 1]: Las búsquedas informadas y no informadas son conceptos clave en el campo de la inteligencia artificial, especialmente en el ámbito de los algoritmos de búsqueda utilizados para resolver problemas
+- [Proyect 1]: Informed and uninformed searches are key concepts in the field of artificial intelligence, particularly in the realm of search algorithms used to solve problems.
 link: https://github.com/mirandaLopezAbraham1/B-squedas-Informadas-y-No-Informadas
-- [Proyect 2]:Una aplicación para realizar pedidos de zapatos.
+- [Proyect 2]:An application for placing shoe orders.
   link: https://github.com/mirandaLopezAbraham1/SistemaPedidoZapatos
 
 ## Contact
