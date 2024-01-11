@@ -32,7 +32,7 @@ I am a software student at the Technical University of Ambato in Ecuador, with a
 link: https://github.com/mirandaLopezAbraham1/B-squedas-Informadas-y-No-Informadas
 - [Proyect 2]:An application for placing shoe orders.
   link: https://github.com/mirandaLopezAbraham1/SistemaPedidoZapatos
- - [Proyect 2]:It is an application developed for use in the financial and accounting domain to plan the repayment of a debt over time. This system features two amortization methods, the German and French systems.
+ - [Proyect 3]:It is an application developed for use in the financial and accounting domain to plan the repayment of a debt over time. This system features two amortization methods, the German and French systems.
 link: https://github.com/diana9519/ProyectoEconomia?tab=readme-ov-file#readme
 
 ## Contact
