@@ -26,20 +26,18 @@ I am a software student at the Technical University of Ambato in Ecuador, with a
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-## Proyectos Destacados
+## Featured projects
 
 - [Proyecto 1]: Breve descripción y enlace al repositorio.
 - [Proyecto 2]: Breve descripción y enlace al repositorio.
 
 ## Contact
-
-¡Estoy emocionado por conectar y colaborar en proyectos innovadores! Puedes encontrarme en:
-
-- 📧 Correo Electrónico: abrahammiranda1809@gmail.com
+You want to know more?! Meet me at:
+- 📧Email: abrahammiranda1809@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/abraham-miranda-1bb2512a7/
-- 🌐 Sitio Web/Portfolio: https://mirandalopezabraham1.github.io/
+- 🌐 Website: https://mirandalopezabraham1.github.io/
 
-¡Hagamos cosas increíbles juntos! 🚀 
+Let's do amazing things together! 🚀 
 
 <!--
 **mirandaLopezAbraham1/mirandaLopezAbraham1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
