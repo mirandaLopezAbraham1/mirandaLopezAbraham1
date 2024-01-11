@@ -1,4 +1,6 @@
-### Hellowe there 👋
+<p align="center">
+### Hellow there 👋
+</p>
 
 <p align="center">
   <img src="https://github.com/mirandaLopezAbraham1/mirandaLopezAbraham1/blob/main/giphy.gif">
